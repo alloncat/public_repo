@@ -1,4 +1,5 @@
-﻿
+﻿#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="香港",3D肉蒲团
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qh/yf/wo/e9/cc0187d5f4064e60a8d9507ccdbeaf4a.m3u8?love=freedom
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="香港",一路向西
